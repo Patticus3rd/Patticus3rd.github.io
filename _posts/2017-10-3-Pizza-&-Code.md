@@ -1,13 +1,8 @@
 ---
+avatar: patticus3rd.github.io/images/21317544_10213511148509393_9088008624167242695_n.jpg
 layout: post
-title: Pizza and Coding (mix really well)
+title: Dont Crash Your Server The First Day
 ---
 
-Your website is now customized, live and looking good. You just have to publish your first blog post:
-Edit /_posts/2014-3-3-Hello-World.md, deleting the placeholder content and entering your own. If you need a quick primer on writing in Markdown, check out Adam Pritchard’s cheat sheet.
-Change the file name to include today’s date and the title of your post. Jekyll requires posts to be named year-month-day-title.md.
-Update the title at the top of the Markdown file. Those variables at the top of the blog post are called front matter, which we’ll dig into a little later. In this case, they specify which layout to use and the title of the blog post. Additional front-matter variables exist, such as permalink, tags and category.
-If you’d like to create new blog posts in the browser on GitHub.com, simply hit the “+” icon in /_posts/. Just remember to format the file name correctly and to include the front-matter block so that the file gets processed by Jekyll.
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
+If you haven't already read, Jake crashed our database. We started the project off by creating our accounts for a new github-like website for our files.  After the training was underway we noticed the website was running really slow and eventually stopped working.  Thats when we got news that the server had crashed after they had tried to delete a branch from the server.
 
