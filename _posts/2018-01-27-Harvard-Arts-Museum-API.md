@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Harvard Arts Museum API Project
-
 ---
 I loved making this project! It was my favorite one by far.  I was inspired by a cheap date idea that I had to take someone
 to a museum.  I picked the Harvard Arts API just to kind of create a website to explore the Harvard Arts Museum and its
