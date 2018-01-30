@@ -4,7 +4,7 @@ title: Mario Pest Control Project!
 avatar: ![AVATAR](patticus3rd.github.io/images/21317544_10213511148509393_9088008624167242695_n.jpg)
 ---
 
-# :sparkles: My First Project!! :sparkles: 
+### My First Project!!
 
 ![MARIO PROJECT IMAGE](https://patticus3rd.github.io/images/mario_project.png)
 
