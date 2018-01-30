@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mario Pest Control Project!
-avatar: ![AVATAR](patticus3rd.github.io/images/21317544_10213511148509393_9088008624167242695_n.jpg)
+
 ---
 
 ### My First Project!!
