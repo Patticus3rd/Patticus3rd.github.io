@@ -4,7 +4,7 @@ title: Mario Pest Control Project!
 
 ---
 
-### My First Project!!
+
 
 This project was our first individual project. My game plan for this project was just to keep it as organized as possible
 so I could understand the components of each individual element.  Overall I had a great time building this and implemented
