@@ -17,7 +17,7 @@ The Goal set for this project is to implement Javascript into a simple HTML Page
 
 ## Highs:
 I had a lot of fun doing this project since it was Mario Themed.  One of the light bulb moments I had was when I had trouble outputing the Counters.  The variables that I had in each function to update the counter would **update** the counter however it did not update the counter because when the server reads the JS file, it would just update the counter in JS but not on the HTML file.  I had to call the update and also call ```totalMagiKoopa.innerHTML = "Caught:" + totalBaddie2;``` after each individual counter update to make it look like this:
-```
+```javascript
 function addGoomba() {
     counter += 5;
     totalBaddie1++;
