@@ -11,11 +11,7 @@ So far since my first start with coding in August, I have accquired a certain se
 
 ![IMAGE SKILL](https://patticus3rd.github.io/images/liam_neeson.gif)
 
-Learned | Currently Learning
------------- | -------------
-JavaScript | Golang
-Ruby | AWS Cert
-Ruby On Rails | MongoDB
+My Skill set includes: JavaScript, Ruby On Rails, Ruby, and currently learning Go Lang!  Also going through a AWS Cert course to test out my mental capacity and its ability to hold more information! 
 
 ### More Information
 
