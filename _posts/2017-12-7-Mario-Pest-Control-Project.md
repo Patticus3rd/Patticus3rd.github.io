@@ -35,6 +35,7 @@ function addMagiKoopa() {
 
 ## Lows:
 The hard part about this project was keeping track of the file systems. I had a hard time trying to style each individual component.  Originally I had set the images in a folder and got really confused. Looking back, I would definitley still use folders because I can keep better track of them now.
+![MARIO GIF](https://patticus3rd.github.io/images/mario_gif.gif)
 
 
 
